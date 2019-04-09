@@ -15,8 +15,8 @@ https://docs.microsoft.com/en-us/azure/expressroute/expressroute-howto-add-gatew
 <tr>
 <td>App Gateway</td>
 <td>/28</td>
-<td>This size gives you 11 usable IP addresses. If your application load requires more than 10 IP addresses, consider a /27 or /26 subnet size. 
-https://docs.microsoft.com/en-us/azure/application-gateway/configuration-overview#size-of-the-subnet</td>
+<td>This size gives you 11 usable IP addresses. If your application load requires more than 10 IP addresses, consider a /27 or /26 subnet size.
+https://docs.microsoft.com/en-us/azure/application-gateway/configuration-overview#size-of-the-subnet</td>
 </tr>
 <tr>
 <td>Azure Firewall</td>
